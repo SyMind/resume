@@ -3,7 +3,7 @@
 * 本科 / 沈阳工业大学计算机科学与技术系 / 2014.09-2018.07
 * Email：<dacongsama@live.com>
 * Github：<https://github.com/SyMind>
-* 博客：<http://www.cnblogs.com/SyMind/>
+* 博客：<http://www.cnblogs.com/SyMind>
 
 ---
 
