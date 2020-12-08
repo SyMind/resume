@@ -1,16 +1,17 @@
 # 个人信息
 * 潘聪聪 / 男 / 1996
 * 本科 / 沈阳工业大学计算机科学与技术系 / 2014.09-2018.07
+* 对前端充满热情，javascript 的狂热追随者
 * Email：<dacongsama@live.com>
 * Github：<https://github.com/SyMind>
-* 博客：<http://www.cnblogs.com/SyMind>
 
 ---
 
 # 技能清单
-* 熟悉 HTML5 / CSS3 / ES6
+* 熟悉 javascript / HTML / CSS
 * 熟悉 react / redux / mobx / react-native / electron
-* 熟悉 webpack 前端构建工具
+* 熟悉 eslint
+* 了解 webpack / babel
 * 了解 vue / vuex / mpvue
 * 了解 .NET / C# 服务端语言与 ASP.NET MVC 服务端框架
 
@@ -18,10 +19,10 @@
 
 # 工作经历
 
-### 便利蜂 - 前端工程师 (2018.07-2020.03)
-内部办公软件 APP 和 PC 端 / 监控报警平台前端 / 营建 Web 管理后台前端的维护与新需求开发，基于 MQTT 的消息平台的 NPM 包搭建与维护。技术栈为react / react-native / electron / angularjs 等。
-
 ### 百度 - 前端工程师 (2020.03-至今)
+
+### 便利蜂 - 前端工程师 (2018.07-2020.03)
+维护内部办公软件的 APP 和 PC 端前端 / 监控报警平台前端 / 营建 Web 前端 / 基于 MQTT 消息平台的 NPM 包等。使用 react / react-native / mobx / electron 等。
 
 # 主要项目
 
