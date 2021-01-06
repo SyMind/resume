@@ -14,6 +14,7 @@
 * 了解 webpack / babel
 * 了解 vue / vuex / mpvue
 * 了解 .NET / C# 服务端语言与 ASP.NET MVC 服务端框架
+* 贡献过 MQTT.js / tarojs / eslint-plugin-react 等项目
 
 ---
 
