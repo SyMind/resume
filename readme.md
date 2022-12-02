@@ -14,7 +14,7 @@
 * 了解编译器前端，熟悉 Babel / ESLint，开发 Babel 插件和 Eslint 规则
 * 偶尔配置 Webpack / Gulp.js / Rollup.js / Vite
 * 了解函数式编程，学过一点 Haskell 和范畴论
-* 正在学习 Rust，阅读 SWC 的源代码
+* 正在学习 Golang
 * 贡献过很多开源项目 MQTT.js（物联网协议） / eslint-plugin-react（Eslint 插件） / ecomfe/react-hooks（百度 React Hooks 库），Taro（跨 h5 和小程序端的框架）技术委员会生态合作者
 
 ---
@@ -27,7 +27,11 @@
 
 # 工作经历
 
-### 百度 - 前端工程师 (2020.03-至今)
+### 字节跳动 - 前端工程师 (2020.07-至今)
+
+TikTok Data TnS 机器审核 B 端。
+
+### 百度 - 前端工程师 (2020.03-2022.07)
 
 开发与维护医美辞典的 h5、小程序、管理后台 / 医美业务医生、日记、医院等 B 端项目 / 柠檬爱美主站等 C 端项目。
 
