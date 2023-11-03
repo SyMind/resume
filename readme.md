@@ -13,8 +13,8 @@
 * 曾经工作使用 React Native / Electron / Vue.js / Vuex / mpvue
 * 了解编译器前端，熟悉 Babel / ESLint，开发 Babel 插件和 Eslint 规则
 * 偶尔配置 Webpack / Gulp.js / Rollup.js / Vite
+* 了解 Golang，正在积极学习并使用 Rust
 * 了解函数式编程，学过一点 Haskell 和范畴论
-* 正在学习 Golang
 * 贡献过很多开源项目 MQTT.js（物联网协议） / eslint-plugin-react（Eslint 插件） / ecomfe/react-hooks（百度 React Hooks 库），Taro（跨 h5 和小程序端的框架）技术委员会生态合作者
 
 ---
@@ -58,6 +58,8 @@ TikTok Data TnS 机器审核 B 端。
 开发 taro2-to-3 工具，帮助 taro 2.x 项目升级到 taro 3.x 项目的工具，基于 jscodeshift 构建。Taro 官网升级指南中推荐的一键升级工具。
 
 开发 tarojs-plugin-platform-nextjs Taro 插件，用于编译为 Next.js 应用。让 Taro 在 Web 端支持 SSR 和 ISR，提升页面首屏速度，利于 SEO。Taro 官网目前唯一的服务器端渲染解决方案。
+
+开发 tarojs-plugin-svelte Taro 插件，使用 Svelte 开发小程序
 
 * 内部工具
 
